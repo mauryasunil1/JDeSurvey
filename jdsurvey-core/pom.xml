@@ -79,7 +79,7 @@
 		<javassist.version>3.9.0.GA</javassist.version>
 		<antlr.version>2.7.6</antlr.version>
 
-		<ognl.version>2.6.9</ognl.version>
+		<ognl.version>3.0.12</ognl.version>
 		<ehcache.version>1.2.3</ehcache.version>
 		<aopalliance.version>1.0</aopalliance.version>
 		<log4j.version>1.2.15</log4j.version>
